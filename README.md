@@ -102,3 +102,6 @@ How many establishments in each Local Authority area have a hygiene score of 0? 
 Hint: You will need to use the aggregation method to answer this.
 
 The first 5 rows of your resulting DataFrame should look something like this:
+
+![image](https://github.com/amccollough1/nosql-challenge/assets/133404805/d3022551-173e-48f3-b0ff-d649ef6164db)
+
